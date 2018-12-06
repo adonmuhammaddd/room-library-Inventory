@@ -20,10 +20,6 @@ import crispyid.co.id.roominventory.RoomReadSingleActivity;
 import crispyid.co.id.roominventory.data.factory.AppDatabase;
 import crispyid.co.id.roominventory.model.Barang;
 
-/**
- * Created by Herdi_WORK on 22.01.18.
- */
-
 public class AdapterBarangRecyclerView extends RecyclerView.Adapter<AdapterBarangRecyclerView.ViewHolder> {
 
     private ArrayList<Barang> daftarBarang;
