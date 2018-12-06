@@ -16,10 +16,6 @@ import crispyid.co.id.roominventory.adapter.AdapterBarangRecyclerView;
 import crispyid.co.id.roominventory.data.factory.AppDatabase;
 import crispyid.co.id.roominventory.model.Barang;
 
-/**
- * Created by Herdi_WORK on 21.01.18.
- */
-
 public class RoomReadActivity extends AppCompatActivity {
 
     private AppDatabase db;
